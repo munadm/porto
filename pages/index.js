@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex flex-col justify-center min-h-screen py-2">
       <Head>
-        <title>Create Next App</title>
+        <title>About - Munad Mahinoor</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <NavHeader />
